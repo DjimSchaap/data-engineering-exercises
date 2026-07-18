@@ -1,0 +1,43 @@
+trip_date,start_station_name,trip_count,station_rank
+2020-03-18,HQ QR,251,1
+2020-03-18,Desplaines St & Kinzie St,25,2
+2020-03-18,St. Clair St & Erie St,23,3
+2020-03-19,HQ QR,122,1
+2020-03-19,St. Clair St & Erie St,23,2
+2020-03-19,Clark St & Elm St,19,3
+2020-03-20,HQ QR,94,1
+2020-03-20,Desplaines St & Kinzie St,28,2
+2020-03-20,Clark St & Elm St,27,3
+2020-03-21,Clark St & Elm St,30,1
+2020-03-21,Dusable Harbor,23,2
+2020-03-21,Lake Shore Dr & North Blvd,22,3
+2020-03-22,Theater on the Lake,21,1
+2020-03-22,Lake Shore Dr & Monroe St,19,2
+2020-03-22,Lake Shore Dr & North Blvd,19,3
+2020-03-23,Montrose Harbor,40,1
+2020-03-23,Theater on the Lake,27,2
+2020-03-23,Lake Shore Dr & North Blvd,24,3
+2020-03-24,Burnham Harbor,33,1
+2020-03-24,Theater on the Lake,32,2
+2020-03-24,Lake Shore Dr & North Blvd,30,3
+2020-03-25,Lake Shore Dr & Monroe St,107,1
+2020-03-25,Theater on the Lake,103,2
+2020-03-25,Montrose Harbor,76,3
+2020-03-26,St. Clair St & Erie St,19,1
+2020-03-26,Wells St & Concord Ln,19,2
+2020-03-26,Sheridan Rd & Irving Park Rd,16,3
+2020-03-27,Wabash Ave & Roosevelt Rd,18,1
+2020-03-27,Dearborn St & Erie St,17,2
+2020-03-27,Broadway & Barry Ave,16,3
+2020-03-28,Dearborn St & Erie St,27,1
+2020-03-28,Desplaines St & Kinzie St,19,2
+2020-03-28,Clark St & Armitage Ave,16,3
+2020-03-29,Desplaines St & Kinzie St,20,1
+2020-03-29,Clark St & Elm St,16,2
+2020-03-29,Wells St & Elm St,16,3
+2020-03-30,St. Clair St & Erie St,23,1
+2020-03-30,Lake Shore Dr & Wellington Ave,20,2
+2020-03-30,Clark St & Armitage Ave,19,3
+2020-03-31,Desplaines St & Kinzie St,21,1
+2020-03-31,Clark St & Elm St,20,2
+2020-03-31,St. Clair St & Erie St,20,3
