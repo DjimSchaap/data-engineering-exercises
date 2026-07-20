@@ -1,4 +1,5 @@
 from pyspark.sql import SparkSession
+from great_expectations.dataset import SparkDFDataset
 from pyspark.sql.functions import (
     col,
     to_timestamp,
@@ -52,6 +53,14 @@ df = df.withColumn(
 df = df.withColumn(
     "duration_seconds",
     unix_timestamp(col("ended_at")) - unix_timestamp(col("started_at"))
+)
+
+assert (
+    SparkDFDataset(df)
+    .expect_column_values_to_be_between(
+        "duration_seconds", min_value=0, max_value=86400
+    )
+    .success
 )
 
 df = df.withColumn(
